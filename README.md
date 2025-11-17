@@ -36,6 +36,7 @@ Save different versions of the videos and compare the results to understand how 
 Video Generation: 
 prompt :A cinematic shot of a BMW M3 car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.:A high-octane, realistic car chase scene through a bustling urban city at night, featuring two sleek sports cars—one red, one black—racing at high speed. Skyscrapers with neon lights reflect off wet streets from recent rain. Tire smoke, sparks from collisions, and motion blur add intensity. Police cars with flashing blue and red lights are in pursuit. Broken glass, scattered debris, and dramatic lighting enhance the chaotic atmosphere. Rain droplets on camera lens, cinematic camera angle from a low perspective behind the chasing car. High-detail textures, realistic lighting and shadows, dynamic motion, photorealistic, ultra-detailed, 8K resolution, cinematic style.
 
+<img width="1032" height="636" alt="image" src="https://github.com/user-attachments/assets/939631a9-7ef9-4aa9-956b-5daa8a20218c" />
 
 
 https://github.com/user-attachments/assets/7d10c22a-06e7-4133-a88a-ff2d4ea69089
