@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Register no.: 212223220028
+
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -32,7 +32,15 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: The Prompt of the above task executed successfully
+# Input and Output: 
+Video Generation: 
+prompt :A cinematic shot of a BMW M3 car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.:A high-octane, realistic car chase scene through a bustling urban city at night, featuring two sleek sports cars—one red, one black—racing at high speed. Skyscrapers with neon lights reflect off wet streets from recent rain. Tire smoke, sparks from collisions, and motion blur add intensity. Police cars with flashing blue and red lights are in pursuit. Broken glass, scattered debris, and dramatic lighting enhance the chaotic atmosphere. Rain droplets on camera lens, cinematic camera angle from a low perspective behind the chasing car. High-detail textures, realistic lighting and shadows, dynamic motion, photorealistic, ultra-detailed, 8K resolution, cinematic style.
+
+
+
+https://github.com/user-attachments/assets/7d10c22a-06e7-4133-a88a-ff2d4ea69089
+
+
 
 
 
@@ -43,4 +51,7 @@ Save different versions of the videos and compare the results to understand how 
 
 
 # Result:
+The Prompt of the above task executed successfully
+
+
 
